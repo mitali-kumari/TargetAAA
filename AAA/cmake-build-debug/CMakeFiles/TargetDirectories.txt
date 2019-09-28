@@ -1,0 +1,13 @@
+/home/mitali/CLionProjects/AAA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mitali/CLionProjects/AAA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mitali/CLionProjects/AAA/cmake-build-debug/CMakeFiles/SpiralPrint_me3thod2.dir
+/home/mitali/CLionProjects/AAA/cmake-build-debug/CMakeFiles/SpiralPrint.dir
+/home/mitali/CLionProjects/AAA/cmake-build-debug/CMakeFiles/Insert_levelOrder.dir
+/home/mitali/CLionProjects/AAA/cmake-build-debug/CMakeFiles/Print_tree_right.dir
+/home/mitali/CLionProjects/AAA/cmake-build-debug/CMakeFiles/levelOrder_line.dir
+/home/mitali/CLionProjects/AAA/cmake-build-debug/CMakeFiles/PrintLevelOrder.dir
+/home/mitali/CLionProjects/AAA/cmake-build-debug/CMakeFiles/levelOrder.dir
+/home/mitali/CLionProjects/AAA/cmake-build-debug/CMakeFiles/ELe_prs_tree.dir
+/home/mitali/CLionProjects/AAA/cmake-build-debug/CMakeFiles/OppositeTraversal_inorder.dir
+/home/mitali/CLionProjects/AAA/cmake-build-debug/CMakeFiles/maxDepth.dir
+/home/mitali/CLionProjects/AAA/cmake-build-debug/CMakeFiles/CountFrequency.dir

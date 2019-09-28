@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LCAOpt.dir/LCAOpt.cpp.o  -o LCAOpt 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/scnd_largest_BST.dir/scnd_largest_BST.cpp.o  -o scnd_largest_BST 

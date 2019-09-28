@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.14)
+project(AAA)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(OppositeTraversal_inorder OppositeTraversal_inorder.cpp PreOrder_stack.cpp maxDepth.cpp CountFrequency.cpp ELe_prs_tree.cpp Insert_levelOrder.cpp SpiralPrint.cpp levelOrder_line.cpp SpiralPrint_me3thod2.cpp)
+add_executable(Print_tree_right Print_tree_right.cpp)
+add_executable(PrintLevelOrder PrintLevelOrder.cpp)
+add_executable(maxDepth maxDepth.cpp)
+add_executable(CountFrequency CountFrequency.cpp)
+add_executable(ELe_prs_tree ELe_prs_tree.cpp)
+add_executable(Insert_levelOrder Insert_levelOrder.cpp)
+add_executable(levelOrder_line levelOrder_line.cpp)
+add_executable(SpiralPrint SpiralPrint.cpp)
+add_executable(SpiralPrint_me3thod2 SpiralPrint_me3thod2.cpp)
+add_executable(levelOrder levelOrder.cpp)

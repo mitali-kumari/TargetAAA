@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BST_minValue.dir/BST_minValue.cpp.o  -o BST_minValue 

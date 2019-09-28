@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="AAA" targetName="SpiralPrint_me3thod2" />
+      <config projectName="AAA" targetName="levelOrder_line" />
+      <config projectName="AAA" targetName="maxDepth" />
+      <config projectName="AAA" targetName="Print_tree_right" />
+      <config projectName="AAA" targetName="OppositeTraversal_inorder" />
+      <config projectName="AAA" targetName="Insert_levelOrder" />
+      <config projectName="AAA" targetName="PrintLevelOrder" />
+      <config projectName="AAA" targetName="SpiralPrint" />
+      <config projectName="AAA" targetName="ELe_prs_tree" />
+      <config projectName="AAA" targetName="CountFrequency" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88b06141-f0b7-4838-97b1-2b23f04425dc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1Q7O4uIyaWo2o352d77MRnfVyxI" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.splitter.proportion" value="0.3233945" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="test" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.SpiralPrint_me3thod2">
+    <configuration name="CountFrequency" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AAA" TARGET_NAME="CountFrequency" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AAA" RUN_TARGET_NAME="CountFrequency">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ELe_prs_tree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AAA" TARGET_NAME="ELe_prs_tree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AAA" RUN_TARGET_NAME="ELe_prs_tree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Insert_levelOrder" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AAA" TARGET_NAME="Insert_levelOrder" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AAA" RUN_TARGET_NAME="Insert_levelOrder">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OppositeTraversal_inorder" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AAA" TARGET_NAME="OppositeTraversal_inorder" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AAA" RUN_TARGET_NAME="OppositeTraversal_inorder">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintLevelOrder" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AAA" TARGET_NAME="PrintLevelOrder" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AAA" RUN_TARGET_NAME="PrintLevelOrder">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Print_tree_right" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AAA" TARGET_NAME="Print_tree_right" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AAA" RUN_TARGET_NAME="Print_tree_right">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpiralPrint" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AAA" TARGET_NAME="SpiralPrint" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AAA" RUN_TARGET_NAME="SpiralPrint">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpiralPrint_me3thod2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AAA" TARGET_NAME="SpiralPrint_me3thod2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AAA" RUN_TARGET_NAME="SpiralPrint_me3thod2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="levelOrder_line" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AAA" TARGET_NAME="levelOrder_line" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AAA" RUN_TARGET_NAME="levelOrder_line">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maxDepth" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AAA" TARGET_NAME="maxDepth" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AAA" RUN_TARGET_NAME="maxDepth">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.CountFrequency" />
+      <item itemvalue="CMake Application.ELe_prs_tree" />
+      <item itemvalue="CMake Application.Insert_levelOrder" />
+      <item itemvalue="CMake Application.levelOrder_line" />
+      <item itemvalue="CMake Application.maxDepth" />
+      <item itemvalue="CMake Application.OppositeTraversal_inorder" />
+      <item itemvalue="CMake Application.Print_tree_right" />
+      <item itemvalue="CMake Application.PrintLevelOrder" />
+      <item itemvalue="CMake Application.SpiralPrint" />
+      <item itemvalue="CMake Application.SpiralPrint_me3thod2" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88b06141-f0b7-4838-97b1-2b23f04425dc" name="Default Changelist" comment="" />
+      <created>1567117983766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567117983766</updated>
+      <workItem from="1567118027160" duration="121000" />
+      <workItem from="1567118350237" duration="1431000" />
+      <workItem from="1567173740205" duration="306000" />
+      <workItem from="1567174100421" duration="2997000" />
+      <workItem from="1567228859116" duration="10341000" />
+      <workItem from="1567868086233" duration="9890000" />
+      <workItem from="1567949271193" duration="299000" />
+      <workItem from="1567952362792" duration="12299000" />
+      <workItem from="1568129633910" duration="18991000" />
+      <workItem from="1569052950334" duration="978000" />
+      <workItem from="1569055347475" duration="4250000" />
+      <workItem from="1569646471148" duration="1286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/test.cpp</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Solution.cpp</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/FindSum.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ELe_prs_tree.cpp</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Sum_Binarytree.dir/Sum_Binarytree.cpp.o  -o Sum_Binarytree 

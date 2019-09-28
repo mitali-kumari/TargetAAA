@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LCA_method2.dir/LCA_method2.cpp.o  -o LCA_method2 

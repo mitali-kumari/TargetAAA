@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/FindSum.dir/FindSum.cpp.o  -o FindSum 

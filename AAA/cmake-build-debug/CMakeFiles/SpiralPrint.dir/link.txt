@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SpiralPrint.dir/SpiralPrint.cpp.o  -o SpiralPrint 

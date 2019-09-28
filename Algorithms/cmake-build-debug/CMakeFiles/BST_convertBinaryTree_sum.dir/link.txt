@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BST_convertBinaryTree_sum.dir/BST_convertBinaryTree_sum.cpp.o  -o BST_convertBinaryTree_sum 

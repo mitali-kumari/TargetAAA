@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Boundary_print_clock.dir/Boundary_print_clock.cpp.o  -o Boundary_print_clock 

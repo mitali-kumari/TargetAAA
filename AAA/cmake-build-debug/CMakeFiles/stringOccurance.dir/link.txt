@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/stringOccurance.dir/stringOccurance.cpp.o  -o stringOccurance 

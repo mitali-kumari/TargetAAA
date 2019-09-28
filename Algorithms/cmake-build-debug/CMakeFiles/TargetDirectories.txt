@@ -1,0 +1,4 @@
+/home/mitali/CLionProjects/Algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mitali/CLionProjects/Algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mitali/CLionProjects/Algorithms/cmake-build-debug/CMakeFiles/BoundaryPrint_Tree.dir
+/home/mitali/CLionProjects/Algorithms/cmake-build-debug/CMakeFiles/Sum_Binarytree.dir

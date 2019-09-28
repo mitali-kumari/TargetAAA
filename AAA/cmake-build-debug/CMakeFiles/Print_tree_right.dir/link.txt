@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Print_tree_right.dir/Print_tree_right.cpp.o  -o Print_tree_right 

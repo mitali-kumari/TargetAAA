@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/asas.dir/asas.cpp.o  -o asas 

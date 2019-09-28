@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DelteLLbdotHead.dir/DelteLLbdotHead.cpp.o  -o DelteLLbdotHead 

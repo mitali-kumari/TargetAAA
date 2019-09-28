@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/sumofTwoConsecutive.dir/sumofTwoConsecutive.cpp.o  -o sumofTwoConsecutive 

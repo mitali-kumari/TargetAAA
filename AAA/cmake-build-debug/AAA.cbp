@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="AAA"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SpiralPrint_me3thod2">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/SpiralPrint_me3thod2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 SpiralPrint_me3thod2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SpiralPrint_me3thod2/fast">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/SpiralPrint_me3thod2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 SpiralPrint_me3thod2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SpiralPrint">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/SpiralPrint" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 SpiralPrint"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SpiralPrint/fast">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/SpiralPrint" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 SpiralPrint/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Insert_levelOrder">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/Insert_levelOrder" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 Insert_levelOrder"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Insert_levelOrder/fast">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/Insert_levelOrder" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 Insert_levelOrder/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Print_tree_right">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/Print_tree_right" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 Print_tree_right"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Print_tree_right/fast">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/Print_tree_right" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 Print_tree_right/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="levelOrder_line">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/levelOrder_line" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 levelOrder_line"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="levelOrder_line/fast">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/levelOrder_line" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 levelOrder_line/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PrintLevelOrder">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/PrintLevelOrder" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 PrintLevelOrder"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PrintLevelOrder/fast">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/PrintLevelOrder" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 PrintLevelOrder/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="levelOrder">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/levelOrder" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 levelOrder"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="levelOrder/fast">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/levelOrder" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 levelOrder/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ELe_prs_tree">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/ELe_prs_tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 ELe_prs_tree"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ELe_prs_tree/fast">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/ELe_prs_tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 ELe_prs_tree/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OppositeTraversal_inorder">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/OppositeTraversal_inorder" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 OppositeTraversal_inorder"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OppositeTraversal_inorder/fast">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/OppositeTraversal_inorder" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 OppositeTraversal_inorder/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="maxDepth">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/maxDepth" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 maxDepth"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="maxDepth/fast">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/maxDepth" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 maxDepth/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CountFrequency">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/CountFrequency" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 CountFrequency"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CountFrequency/fast">
+				<Option output="/home/mitali/CLionProjects/AAA/cmake-build-debug/CountFrequency" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/mitali/CLionProjects/AAA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 CountFrequency/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/mitali/CLionProjects/AAA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/mitali/CLionProjects/AAA/CountFrequency.cpp">
+			<Option target="OppositeTraversal_inorder"/>
+			<Option target="CountFrequency"/>
+		</Unit>
+		<Unit filename="/home/mitali/CLionProjects/AAA/ELe_prs_tree.cpp">
+			<Option target="ELe_prs_tree"/>
+			<Option target="OppositeTraversal_inorder"/>
+		</Unit>
+		<Unit filename="/home/mitali/CLionProjects/AAA/Insert_levelOrder.cpp">
+			<Option target="Insert_levelOrder"/>
+			<Option target="OppositeTraversal_inorder"/>
+		</Unit>
+		<Unit filename="/home/mitali/CLionProjects/AAA/OppositeTraversal_inorder.cpp">
+			<Option target="OppositeTraversal_inorder"/>
+		</Unit>
+		<Unit filename="/home/mitali/CLionProjects/AAA/PreOrder_stack.cpp">
+			<Option target="OppositeTraversal_inorder"/>
+		</Unit>
+		<Unit filename="/home/mitali/CLionProjects/AAA/PrintLevelOrder.cpp">
+			<Option target="PrintLevelOrder"/>
+		</Unit>
+		<Unit filename="/home/mitali/CLionProjects/AAA/Print_tree_right.cpp">
+			<Option target="Print_tree_right"/>
+		</Unit>
+		<Unit filename="/home/mitali/CLionProjects/AAA/SpiralPrint.cpp">
+			<Option target="SpiralPrint"/>
+			<Option target="OppositeTraversal_inorder"/>
+		</Unit>
+		<Unit filename="/home/mitali/CLionProjects/AAA/SpiralPrint_me3thod2.cpp">
+			<Option target="SpiralPrint_me3thod2"/>
+			<Option target="OppositeTraversal_inorder"/>
+		</Unit>
+		<Unit filename="/home/mitali/CLionProjects/AAA/levelOrder.cpp">
+			<Option target="levelOrder"/>
+		</Unit>
+		<Unit filename="/home/mitali/CLionProjects/AAA/levelOrder_line.cpp">
+			<Option target="levelOrder_line"/>
+			<Option target="OppositeTraversal_inorder"/>
+		</Unit>
+		<Unit filename="/home/mitali/CLionProjects/AAA/maxDepth.cpp">
+			<Option target="OppositeTraversal_inorder"/>
+			<Option target="maxDepth"/>
+		</Unit>
+		<Unit filename="/home/mitali/CLionProjects/AAA/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
